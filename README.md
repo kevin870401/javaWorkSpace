@@ -1,5 +1,3 @@
-# javaWorkSpace
-build a work space for java
 # Creating A Java Workspace
 ## 1. Install Pre-requisites Tools
 You only need to do these steps once for the first time on your **Windows** machine.
